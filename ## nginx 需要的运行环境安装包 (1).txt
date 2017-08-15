@@ -1,0 +1,3 @@
+## nginx 需要的运行环境安装包
+
+yum -y install pcre-devel openssl openssl-devel zlib-devel gcc gcc-c++ ncurses-devel perl
